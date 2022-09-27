@@ -18,7 +18,7 @@
 | Freq         | 72M           |
 | Flash        | 256KB         |
 | RAM          | 48KB          |
-| Acceleration | ARM SIMD      |
+| Acceleration | None          |
 
 ## Board
 
@@ -46,7 +46,7 @@ Just simple edit `tm_port.h`
 
 ## Author
 
-[Anuo](https://github.com/dreamcmi) 
+[Anuo](https://github.com/Anuo-shuo/TinyMaix_STM32F103RC)
 
 
 
